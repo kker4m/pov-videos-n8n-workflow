@@ -2,6 +2,7 @@
 
 Youtube videosuna [buradan](https://www.youtube.com/watch?v=dPZ1V2qU07Y "buradan") gidebilirsiniz. 
 Template excel linkine [buradan](https://docs.google.com/spreadsheets/d/16Qr5Wg3PBHQz8tAeHVP_XEsU1qKCQ4n-xuRhgMJBtY0/edit?gid=0#gid=0 "buradan") gidebilirsiniz.
+Template'i [buradan](https://github.com/kker4m/pov-videos-n8n-workflow/blob/main/template.json "buradan") indirdikten sonra n8n'de import kullanarak kullanabilirsiniz. 
 
 Fikir uretmek icin prompt;
 ```yaml
